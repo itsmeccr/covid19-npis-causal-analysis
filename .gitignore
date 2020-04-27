@@ -1,0 +1,4 @@
+project-key.json
+data/raw/*
+.ipynb*
+*.pyc
