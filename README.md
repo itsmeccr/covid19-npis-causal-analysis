@@ -1,9 +1,11 @@
 ## Project: A Meta-Learning Approach to Causal Structure Discovery from Unknown Interventions
+
+(Work in Progress; Inspired from https://arxiv.org/abs/1910.01075)
 ### University of Illinois at Chicago 
 #### Advanced Machine Learning
 
 
-Data preparation for application in the causal analysis of non-pharmaceutical interventions on COVID19 cases.
+Data preparation for the application of the project in the causal analysis of non-pharmaceutical interventions on COVID-19 cases.
 
 ### Demographic Data Integration
 - Population
